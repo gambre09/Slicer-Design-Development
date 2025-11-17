@@ -56,6 +56,8 @@ SlicerQtApp/
     ├── MainWindow.h
     └── main.cpp
 ```
+##Output:-
+<img width="1099" height="703" alt="Screenshot 2025-08-26 110225" src="https://github.com/user-attachments/assets/f47b2983-471d-4379-a2ff-aaa9c7440187" />
 
 ## Next Steps
 - Replace the placeholder 3D viewport with `QOpenGLWidget` or Qt3D.
