@@ -64,5 +64,4 @@ SlicerQtApp/
 - Add **printer connection** and **monitoring**.
 - FEM tab: integrate a simulation library (e.g., via Python or C++ libraries).
 
-## License
-MIT (or your choice).
+-Abhishek Gambre(https://www.linkedin.com/in/abhishek-gambre-566341227/)
